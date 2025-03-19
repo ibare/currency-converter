@@ -14,7 +14,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/currency-converter",
   "display": "standalone",
   "theme_color": "#1A202C",
   "background_color": "#1A202C"
